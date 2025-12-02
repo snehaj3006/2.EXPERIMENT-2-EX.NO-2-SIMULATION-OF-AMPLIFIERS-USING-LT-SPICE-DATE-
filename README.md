@@ -33,6 +33,9 @@ DATE:
 
 <img width="532" height="644" alt="image" src="https://github.com/user-attachments/assets/33fe78cf-8616-477e-8ec2-b9926fc743fc" />
 
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/90c2b659-09d1-4ee0-a49e-2e9298d3d977" />
+
+
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
@@ -50,6 +53,9 @@ PASTE THE OUTPUT WAVEFORM HERE
 <img width="552" height="586" alt="image" src="https://github.com/user-attachments/assets/3a23ffdd-9899-4704-803e-860240592d27" />
 
 <img width="500" height="398" alt="image" src="https://github.com/user-attachments/assets/a8f97830-a1e7-4df5-9226-57a0182a0f86" />
+
+<img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/53fe1a2c-d775-47df-9780-c8ddb6bcab8e" />
+
 
 
 ---
@@ -69,6 +75,9 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 <img width="441" height="307" alt="image" src="https://github.com/user-attachments/assets/0a864639-6bd7-4559-be77-3482660a7a7e" />
 
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/d24b1c92-21e9-4b41-86b6-ef70f48ee3bf" />
+
+
 
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
@@ -85,6 +94,9 @@ PASTE THE OUTPUT WAVEFORM HERE
 ---
 
 <img width="558" height="679" alt="image" src="https://github.com/user-attachments/assets/72fa6190-962d-40da-8fd1-6670e02fb68e" />
+
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/2b922c4a-163d-43e3-97ae-96e35c45bd6a" />
+
 
 
 ![Uploading image.png…]()
